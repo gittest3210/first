@@ -1,0 +1,3 @@
+@echo off
+taskkill /F /im notepad.exe
+echo Íê³Éfsd
